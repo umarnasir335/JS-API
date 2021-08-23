@@ -19,6 +19,10 @@ Development utilities:
   * ☕️ Simple, flexible, fun JavaScript test framework for Node.js & The Browser ☕️
 * [supertest](https://www.npmjs.com/package/supertest)
   * HTTP assertions made easy via superagent.
+* [monk](https://automattic.github.io/monk/)
+  * layer that provides simple yet substantial usability improvements for MongoDB usage within Node.JS.
+* [joi](https://www.npmjs.com/package/@hapi/joi)
+  * works seamlessly with the hapi web framework and its other components to provide schema description and data validation in JS.  
 
 ## Setup
 
